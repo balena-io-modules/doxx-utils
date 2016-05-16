@@ -45,7 +45,7 @@ exports.searchOrder = searchOrder = (variables) ->
     .join('+')
 
 exports.defaultPartialsSearch = walkFiles (file, files, metalsmith, options) ->
-  partialsSearchFieldName = options.partialsSearchFieldName or '$partials_search'
+  partialsSearchFieldName = options?.partialsSearchFieldName or '$partials_search'
 
   obj = files[file]
   return if not obj.dynamic
