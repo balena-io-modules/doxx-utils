@@ -1,0 +1,23 @@
+{
+  "name": "@resin.io/doxx-utils",
+  "version": "0.1.0",
+  "description": "Doxx utils.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/resin-io-playground/doxx-utils.git"
+  },
+  "author": "Eugene Mirotin <eugene@resin.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/resin-io-playground/doxx-utils/issues"
+  },
+  "homepage": "https://github.com/resin-io-playground/doxx-utils",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "lodash": "^4.12.0"
+  }
+}
