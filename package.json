@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/resin-io-playground/doxx-utils.git"
+    "url": "git://github.com/resin-io-modules/doxx-utils.git"
   },
   "author": "Eugene Mirotin <eugene@resin.io>",
   "license": "Apache-2.0",
