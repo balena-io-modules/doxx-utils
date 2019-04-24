@@ -1,5 +1,5 @@
 {
-  "name": "@resin.io/doxx-utils",
+  "name": "@balena.io/doxx-utils",
   "version": "0.1.2",
   "description": "Doxx utils.",
   "main": "index.js",
