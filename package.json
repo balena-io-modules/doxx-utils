@@ -1,6 +1,6 @@
 {
   "name": "@resin.io/doxx-utils",
-  "version": "0.1.2",
+  "version": "0.1.1",
   "description": "Doxx utils.",
   "main": "index.js",
   "scripts": {
