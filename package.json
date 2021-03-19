@@ -1,5 +1,5 @@
 {
-  "name": "@resin.io/doxx-utils",
+  "name": "@balena/doxx-utils",
   "version": "0.1.1",
   "description": "Doxx utils.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/resin-io-modules/doxx-utils.git"
+    "url": "git://github.com/balena-io-modules/doxx-utils.git"
   },
   "author": "Eugene Mirotin <eugene@resin.io>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/resin-io-playground/doxx-utils/issues"
+    "url": "https://github.com/balena-io-modules/doxx-utils/issues"
   },
-  "homepage": "https://github.com/resin-io-playground/doxx-utils",
+  "homepage": "https://github.com/balena-io-modules/doxx-utils",
   "dependencies": {
     "js-combinatorics": "^0.5.2"
   },
