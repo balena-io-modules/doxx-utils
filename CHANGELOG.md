@@ -5,6 +5,11 @@
 # v0.1.1
 ## (2021-03-19)
 
+# v1.0.1
+## (2021-03-19)
+
+* Add .versionbot/CHANGELOG.yml for nested changelogs [Pagan Gazzard]
+
 # v1.0.0
 ## (2021-03-19)
 

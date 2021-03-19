@@ -1,15 +1,25 @@
+- commits:
+    - subject: Add .versionbot/CHANGELOG.yml for nested changelogs
+      hash: 4491ab0d7cb082d83ab51a4b2bcc41263b1de946
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 1.0.1
+  date: 2021-03-19T19:27:20.311Z
 - version: 1.0.0
-  date: "2021-03-19T19:18:07Z"
+  date: '2021-03-19T19:18:07Z'
   commits:
-  - hash: 3ad5037c83c24b26a0552e538ec78c28e47b24aa
-    author: Pagan Gazzard
-    footers:
-      change-type: major
-    subject: Rename to @balena/doxx-utils
-    body: ""
-  - hash: 2f97d338d3680169651420eebd89361820fcc4a5
-    author: Pagan Gazzard
-    footers:
-      change-type: patch
-    subject: Build coffeescript files before publishing
-    body: This avoids the needs to compile on every run
+    - hash: 3ad5037c83c24b26a0552e538ec78c28e47b24aa
+      author: Pagan Gazzard
+      footers:
+        change-type: major
+      subject: Rename to @balena/doxx-utils
+      body: ''
+    - hash: 2f97d338d3680169651420eebd89361820fcc4a5
+      author: Pagan Gazzard
+      footers:
+        change-type: patch
+      subject: Build coffeescript files before publishing
+      body: This avoids the needs to compile on every run
